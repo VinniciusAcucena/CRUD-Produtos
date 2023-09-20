@@ -12,7 +12,7 @@ CRUD para cadastro de produtos utilizando ASP.NET Web Forms com banco de dados S
 3. Deletar um item existente;
 4. Listar todos os itens
 
-#1. Cadastrar novo item
+# 1. Cadastrar novo item
 
 - Ao acessar essa opção o usuário será redirecionado para página de cadastro;
 - Nela estará um texto indicando o atributo que deverá ser inserido (Nome) com um textBox em baixo para que possa digitar seu produto desejado;
@@ -20,7 +20,7 @@ CRUD para cadastro de produtos utilizando ASP.NET Web Forms com banco de dados S
 - Há tambem o botão "Voltar" que irá redirecionar o usuário para a página inicial.
 
 
-#2. Editar um item existente
+# 2. Editar um item existente
 
 - Ao acessar essa opção o usuário será redirecionado para a página de edição;
 - Nela estará um texto indicando para digitar o ID do produto que deseja editar junto com um textBox para que o ID do produto seja digitado;
@@ -31,7 +31,7 @@ CRUD para cadastro de produtos utilizando ASP.NET Web Forms com banco de dados S
 - Há tambem o botão "Voltar" que irá redirecionar o usuário para a página inicial.
 
 
-#3. Deletar um item existente
+# 3. Deletar um item existente
 
 - Ao acessar essa opção o usuário será redirecionado para a página de deletar;
 - Nela estará um texto indicando para digitar o ID do produto que deseja deletar junto do textBox para que o ID do produto seja digitado;
@@ -41,7 +41,7 @@ CRUD para cadastro de produtos utilizando ASP.NET Web Forms com banco de dados S
 - Há tambem o botão "Voltar" que irá redirecionar o usuário para a página inicial.
 
 
-#4.Listar todos os itens
+# 4.Listar todos os itens
 
 - Ao acessar essa opção o usuário será redirecionado para a página de listagem;
 - Nela será apresentada uma tabela listado todos os produtos cadastrados, mostrando o ID e o NOME de todos os produtos que estão cadastrados no banco de dados;
