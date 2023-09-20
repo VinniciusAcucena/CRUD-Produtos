@@ -16,7 +16,7 @@ namespace DesafioCRUD
 
         protected void btnVoltar_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Index.aspx");
+            Response.Redirect("~/Index/Index.aspx");
         }
     }
 }

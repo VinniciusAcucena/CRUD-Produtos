@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DesafioCRUD
+namespace DesafioCRUD.BancoDados
 {
     using System;
     using System.Collections.Generic;
